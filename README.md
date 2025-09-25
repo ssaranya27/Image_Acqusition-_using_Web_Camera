@@ -1,5 +1,8 @@
 ## EXPT-2 IMAGE ACQUSITION USING WEB CAMERA
+<<<<<<< HEAD
 
+=======
+>>>>>>> f3077d541a580767327528feabb9c462ba43e69a
 Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
